@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **fdldestriana/fdldestriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me through my social media account
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am new to this 
--->
+
