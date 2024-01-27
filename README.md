@@ -16,3 +16,8 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" />
+
+
+
+
