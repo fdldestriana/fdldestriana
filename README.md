@@ -1,13 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I am Fadly
 
-- 🔭 I’m currently working on Kimia Farma
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Mobile App Development
+- 💊 I’m currently working on Kimia Farma, a huge Pharmaceutical Industri in Indonesia.
+- 🦋 I’m currently learning mobile development using Flutter.
+- 👀 I’m looking to collaborate on Mobile App Development
 - 🤔 I’m looking for help with peers
 - 💬 Ask me about Flutter
 - 📫 How to reach me: You can reach me through my social media account
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am new to this 
+- ⚡ Fun fact: I am still lost but having fun with programming 
 
 ### 🧰 Languages and Tools
 
