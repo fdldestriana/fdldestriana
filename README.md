@@ -1,8 +1,8 @@
 ### 👋 Hi there, I am Fadly
 
 - 💊 I’m currently working on Kimia Farma, a huge Pharmaceutical Industry in Indonesia.
-- 🦋 I’m currently learning mobile development using Flutter.
-- 👀 I’m looking for opportunity to freelance as Flutter Developer.
+- 🦋 I’m currently learning mobile development using Flutter and honing my programming skills by learning C.
+- 👀 I’m looking for an opportunity to freelance as a Flutter Developer.
 - 🤔 I’m looking for help with peers.
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: You can reach me through my social media account.
